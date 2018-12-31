@@ -3,12 +3,26 @@
 
 [LOGIN]
 https://accounts.snapchat.com/accounts/login
+
+
 [PARAMATER:]
+
+
 username=
+
+
 password=
+
+
 xsrf_token=
+
+
 client_id=
+
+
 response=
+
+
 g-recaptcha-response=
 
 [SIGNUP]
